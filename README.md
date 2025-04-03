@@ -1,2 +1,2 @@
 # Web-based-Tools
-A collection of web-based platforms for chemical research, education, and industry, including virtual labs, molecular docking, spectroscopy, reaction simulations, and cloud-based computational tools. It highlights AI and machine learning integration, enhancing efficiency, accessibility, and predictive modeling in chemistry.
+This repository contains a research paper on web-based simulation platforms in chemistry. It explores their impact on research, education, and industry, covering virtual laboratories, molecular docking, spectroscopy, reaction simulations, and cloud-based computational tools. The integration of AI and machine learning is also discussed, highlighting advancements in predictive modeling and efficiency.
